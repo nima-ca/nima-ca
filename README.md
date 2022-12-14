@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nima</h1>
 <h3 align="center">Front-End Developer!</h3>
 
-- 📚 I’m currently learning **Angular**
+- 📚 I’m currently learning **Nextjs**
 
-- 📫 How to reach me **Nekoueinima@protonmail.com**
+- 📫 How to reach me **nekoueinima@gmail.com**
 
 <hr />
 <p align="left">
