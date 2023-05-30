@@ -2,7 +2,7 @@
 <h3 align="center">A Front-End Developer!</h3>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on an open source project<br>🌱 I’m currently learning Rust 🦀<br>💬 Ask me about Front-End Development<br>📫 How to reach me **nekoueinima@gmail.com**<br>💻 you can find more about me <a href="https://nimanekouei.vercel.app/">**here**</a>.
+👯 I’m looking to collaborate on an open source project<br>🌱 I’m currently learning Testing 🧪<br>💬 Ask me about Front-End Development<br>📫 How to reach me **nekoueinima@gmail.com**<br>💻 you can find more about me <a href="https://nimanekouei.vercel.app/">**here**</a>.
 
 
 ## 🌐 Socials:
