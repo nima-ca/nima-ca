@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima</h1>
-<h3 align="center">A Software Engineer!</h3>
+<h3 align="center">A Software Developer!</h3>
 
 # 💫 About Me:
 👯 I’m looking to collaborate on an open source project<br>🌱 I’m currently learning Testing 🧪<br>💬 Ask me about Front-End Development<br>📫 How to reach me **nekoueinima@gmail.com**<br>💻 you can find more about me <a href="https://nimanekoueinia.info/">**here**</a>.
